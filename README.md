@@ -15,6 +15,7 @@ Train Model: Train the transformer model using your dataset.
 Generate Summaries: Use the trained model to generate summaries for new text documents.
 
 ## Example
+```python
 from model import Summarizer
 
 # Initialize the summarizer
